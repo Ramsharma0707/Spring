@@ -1,0 +1,14 @@
+package com.rays.core;
+
+public class MaxNo {
+int a=20;
+int b=45,
+
+if(a>b) {
+	System.out.println("gretaer "+a);
+}
+else {
+	System.out.println(+b);
+}
+}
+}

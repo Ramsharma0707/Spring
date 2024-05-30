@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+C:\Rays Software\Workspace\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3269773193.index
+\springboot\src\main\resources
+C:\Rays Software\Workspace\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\508866700.index
+\spring-mvc\src\main\resources
+C:\Rays Software\Workspace\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3877924124.index
+\springboot-simple03\src\main\java
+C:\Rays Software\Workspace\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\253018701.index
+\spring-boot-simple-03\src\main\resources
+C:\Rays Software\Workspace\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\225721757.index
+\spring-mvc\src\main\java
+C:\Rays Software\Workspace\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1761234451.index
+\springbootapllication\src\main\java

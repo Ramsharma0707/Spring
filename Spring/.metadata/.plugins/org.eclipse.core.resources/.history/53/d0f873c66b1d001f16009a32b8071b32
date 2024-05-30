@@ -1,0 +1,14 @@
+package com.rays;
+
+
+
+@SpringBootApplication
+public class SpringBootSimple03Application {
+
+	public static void main(String[] args) {
+
+		SpringApplication.run(SpringBootSimple03Application.class, args);
+
+	}
+
+}
